@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Построение интерактивных приложений. Приложения, которые что-то делают</string>
+    <string name="find_beer">Найти пиво!</string>
+    <string name="brands">Пиво не выбрано</string>
+    <string-array name="beer_colors">
+        <item>Светлое</item>
+        <item>Темное</item>
+        <item>Красное</item>
+    </string-array>
+</resources>

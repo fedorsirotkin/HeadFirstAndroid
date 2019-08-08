@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Множественные активности и интенты. Предъявите свой интент</string>
+    <string name="send">Отправить сообщение</string>
+    <string name="hint">Введите сообщение</string>
+    <string name="chooser">Отправить сообщение через...</string>
+</resources>

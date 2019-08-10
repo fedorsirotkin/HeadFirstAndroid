@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Представления и группы. Представление начинается</string>
+    <string name="duck">Это утка!</string>
+    <string name="not_real">(не настоящая)</string>
+</resources>

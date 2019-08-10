@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Макеты с ограничениями. Расставить по местам</string>
+    <string name="to_label">Кому:</string>
+    <string name="email_hint">Введите адрес электронной почты</string>
+    <string name="subject_hint">Тема</string>
+    <string name="message_hint">Сообщение</string>
+    <string name="send_button">Отправить</string>
+</resources>

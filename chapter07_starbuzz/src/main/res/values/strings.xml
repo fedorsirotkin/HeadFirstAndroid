@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Списковые представления и адаптеры. Обо всем по порядку</string>
+    <string name="starbuzz_logo">Starbuzz логотип</string>
+    <string-array name="options">
+        <item>Напитки</item>
+        <item>Еда</item>
+        <item>На складе</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Динамические фрагмены. Вложение фрагментов</string>
+    <string name="details_button">Показать детали</string>
+
+    <string name="workout_title">Заголовок</string>
+    <string name="workout_description">Описание</string>
+
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="reset">Сбросить</string>
+</resources>

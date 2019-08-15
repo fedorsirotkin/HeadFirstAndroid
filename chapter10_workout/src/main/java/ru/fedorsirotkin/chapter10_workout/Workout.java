@@ -1,4 +1,4 @@
-package ru.fedorsirotkin.chapter09_workout;
+package ru.fedorsirotkin.chapter10_workout;
 
 public class Workout {
     private String name;

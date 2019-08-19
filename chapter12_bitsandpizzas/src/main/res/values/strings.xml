@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Design support library. Виджеты и жесты</string>
+    <string name="create_order">Создать заказ</string>
+    <string name="create_order_title">Создать заказ</string>
+    <string name="action_share">Поделиться</string>
+
+    <string name="title_top">Верхний фрагмент</string>
+    <string-array name="pizzas">
+        <item>Жгучая</item>
+        <item>Грибная</item>
+    </string-array>
+
+    <string-array name="pasta">
+        <item>Спагетти Болоньезе</item>
+        <item>Лазанья</item>
+    </string-array>
+
+    <string-array name="stores">
+        <item>Кембридж</item>
+        <item>Севастопольская</item>
+    </string-array>
+
+    <string name="home_tab">Главная</string>
+    <string name="pizza_tab">Пиццы</string>
+    <string name="pasta_tab">Макароны</string>
+    <string name="store_tab">Магазины</string>
+
+    <string name="company_name">Биты и пиццы</string>
+    <string name="restaurant_image">Имидж ресторана</string>
+    <string name="home_text">Мы открыли наши двери в 2019 году. \"Биты и пиццы\" имеет репутацию одного из лучших итальянских ресторанов в Италии.
+        Некоторые люди верят, что перекусить - значит быть с друзьями и семьей. Мы верим что хорошей едой лучше всего наслаждаться, глядя на телефон.</string>
+
+    <string name="order_name_hint">Пожалуйста, введите ваше имя</string>
+    <string name="order_details_hint">Пожалуйста, введите ваш заказ</string>
+</resources>

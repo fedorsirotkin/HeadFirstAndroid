@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Выдвижные панели. Подальше положишь</string>
+    <string name="user_name">Кот Бегемот</string>
+    <string name="nav_inbox">Сообщения</string>
+    <string name="nav_drafts">Черновики</string>
+    <string name="nav_sent">Отправленные сообщения</string>
+    <string name="nav_trash">Корзина</string>
+    <string name="nav_support">Служба поддержки</string>
+    <string name="nav_help">Помощь</string>
+    <string name="nav_feedback">Оставить отзыв</string>
+    <string name="nav_open_drawer">Открыть выдвижную панель</string>
+    <string name="nav_close_drawer">Закрыть выдвижную панель</string>
+</resources>
